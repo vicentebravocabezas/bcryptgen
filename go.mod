@@ -1,4 +1,4 @@
-module github.com/vicentebravocabezas/bcrypt
+module github.com/vicentebravocabezas/bcryptgen
 
 go 1.21.5
 
